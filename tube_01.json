@@ -1,0 +1,598 @@
+{
+    "records": [
+        {
+            "downstream_delay": 40,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:05:30.000+0900",
+            "upstream_delay": 40,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 30,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:05:43.000+0900",
+            "upstream_delay": 30,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 135,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:06:47.000+0900",
+            "upstream_delay": 135,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 70,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:07:25.000+0900",
+            "upstream_delay": 70,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 27,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:07:37.000+0900",
+            "upstream_delay": 27,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 39,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:07:49.000+0900",
+            "upstream_delay": 39,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 59,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:08:02.000+0900",
+            "upstream_delay": 59,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 83,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:08:36.000+0900",
+            "upstream_delay": 83,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 23,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:09:26.000+0900",
+            "upstream_delay": 23,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 26,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:09:38.000+0900",
+            "upstream_delay": 26,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 23,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:12:00.000+0900",
+            "upstream_delay": 23,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 22,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:12:15.000+0900",
+            "upstream_delay": 22,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 34,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:13:20.000+0900",
+            "upstream_delay": 34,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 50,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:13:32.000+0900",
+            "upstream_delay": 50,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 62,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:13:46.000+0900",
+            "upstream_delay": 62,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 62,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:13:58.000+0900",
+            "upstream_delay": 62,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 83,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:14:10.000+0900",
+            "upstream_delay": 83,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 71,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:14:23.000+0900",
+            "upstream_delay": 71,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 95,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:14:35.000+0900",
+            "upstream_delay": 95,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 136,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:14:48.000+0900",
+            "upstream_delay": 136,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 124,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:15:01.000+0900",
+            "upstream_delay": 124,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 99,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:15:13.000+0900",
+            "upstream_delay": 99,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 139,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:15:27.000+0900",
+            "upstream_delay": 139,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 107,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:15:39.000+0900",
+            "upstream_delay": 107,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 133,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:15:52.000+0900",
+            "upstream_delay": 133,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 141,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:16:04.000+0900",
+            "upstream_delay": 141,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 140,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:16:16.000+0900",
+            "upstream_delay": 140,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 129,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:16:29.000+0900",
+            "upstream_delay": 129,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 40,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:16:41.000+0900",
+            "upstream_delay": 40,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 48,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:16:53.000+0900",
+            "upstream_delay": 48,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 86,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:17:05.000+0900",
+            "upstream_delay": 86,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 53,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:17:17.000+0900",
+            "upstream_delay": 53,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 39,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:17:29.000+0900",
+            "upstream_delay": 39,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 83,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:17:42.000+0900",
+            "upstream_delay": 83,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 78,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:17:54.000+0900",
+            "upstream_delay": 78,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 60,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:18:06.000+0900",
+            "upstream_delay": 60,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 65,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:18:18.000+0900",
+            "upstream_delay": 65,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 59,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:18:31.000+0900",
+            "upstream_delay": 59,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 106,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:18:43.000+0900",
+            "upstream_delay": 106,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 231,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:18:55.000+0900",
+            "upstream_delay": 231,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 100,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:19:07.000+0900",
+            "upstream_delay": 100,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 648,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:19:21.000+0900",
+            "upstream_delay": 648,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 116,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:19:33.000+0900",
+            "upstream_delay": 116,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 614,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:19:46.000+0900",
+            "upstream_delay": 614,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 32,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:19:59.000+0900",
+            "upstream_delay": 32,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 35,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:20:11.000+0900",
+            "upstream_delay": 35,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 49,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:20:23.000+0900",
+            "upstream_delay": 49,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 33,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:20:35.000+0900",
+            "upstream_delay": 33,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 32,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:20:47.000+0900",
+            "upstream_delay": 32,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 35,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:20:59.000+0900",
+            "upstream_delay": 35,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 48,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:21:11.000+0900",
+            "upstream_delay": 48,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 36,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:21:24.000+0900",
+            "upstream_delay": 36,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 54,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:21:36.000+0900",
+            "upstream_delay": 54,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 110,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:21:48.000+0900",
+            "upstream_delay": 110,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 35,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:22:00.000+0900",
+            "upstream_delay": 35,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 64,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:22:13.000+0900",
+            "upstream_delay": 64,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 32,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:22:25.000+0900",
+            "upstream_delay": 32,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 36,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:22:37.000+0900",
+            "upstream_delay": 36,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 32,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:22:49.000+0900",
+            "upstream_delay": 32,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 47,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:23:01.000+0900",
+            "upstream_delay": 47,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 32,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:23:13.000+0900",
+            "upstream_delay": 32,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 31,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:23:25.000+0900",
+            "upstream_delay": 31,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 77,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:23:37.000+0900",
+            "upstream_delay": 77,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 35,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:23:50.000+0900",
+            "upstream_delay": 35,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 39,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:24:02.000+0900",
+            "upstream_delay": 39,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        },
+        {
+            "downstream_delay": 34,
+            "downstream_loss": 0,
+            "downstream_rate": 30000,
+            "ts": "2021-06-24T14:24:14.000+0900",
+            "upstream_delay": 34,
+            "upstream_loss": 0,
+            "upstream_rate": 15000
+        }
+    ]
+}
