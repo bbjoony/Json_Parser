@@ -5,12 +5,13 @@ import pandas as pd
 
 def browsefunc():
     file = fd.askopenfile()
+    filename = str(file.name[:-5]) #edited by @JH Son
     if file:
         print(file.name) # 파일을 제대로 읽어왔는지 확인
     contents = file.read()
     json_data = json.loads(contents)
     df = pd.json_normalize(json_data["records"])
-    df.to_csv('sample+1.csv')
+    df.to_csv(filename + '.csv')
 
 window=tk.Tk()
 
