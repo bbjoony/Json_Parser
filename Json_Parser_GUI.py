@@ -5,7 +5,7 @@ import pandas as pd
 
 def browsefunc():
     file = fd.askopenfile()
-    filename = str(file.name[:-5]) #edited by @JH Son
+    filename = str(file.name[:-5]) #edited by @JH Son - 뒤에서 5번째 문자까지(.json을 제외하는 구문임) 읽어옴
     if file:
         print(file.name) # 파일을 제대로 읽어왔는지 확인
     contents = file.read()
